@@ -1,0 +1,24 @@
+@charset "utf8";
+
+/*Aqui posso colocar um comentario*/
+
+/*
+vAMOS PARA O LANCHE?
+*/
+
+
+    /*vamos criar um reset de pagina, onde o css deve limpar as configuracoes*/
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        /* ID posso usar em qualquer espaço (é usado para o dia dia) e classic teho que usar em espaco especifico (ocasiao especiais)*/
+    }
+
+    body {
+        background-color: #6ccdda;
+        font-family: arial, Helvetica, sans-serif;
+        margin: auto;
+        padding: auto;
+    }
+    
